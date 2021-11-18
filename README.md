@@ -1,4 +1,7 @@
 # Hybrid Application Service (HAS)
+
+image:https://codecov.io/gh/redhat-appstudio/application-service/branch/main/graph/badge.svg[Codecov.io,link="https://codecov.io/gh/redhat-appstudio/application-service"]
+
 An Kubernetes operator to create and manage applications and control the lifecycle of applications.
 
 
